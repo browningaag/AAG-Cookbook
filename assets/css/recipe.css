@@ -1,0 +1,226 @@
+/* Add a black background color to the top navigation */
+
+body {
+    background: #EA5A5A;
+}
+
+a {
+    color: inherit;
+}
+
+.bpl {
+    position: absolute;
+    width: 272px;
+    height: 201px;
+    left: 45px;
+    top: 123px;
+}
+
+.bpl-caption {
+    position: absolute;
+    width: 200px;
+    height: 26px;
+    left: 100px;
+    top: 330px;
+}
+
+.ccake {
+    position: absolute;
+    width: 272px;
+    height: 201px;
+    left: 399px;
+    top: 123px;
+}
+
+.ccake-caption {
+    position: absolute;
+    width: 200px;
+    height: 26px;
+    left: 463px;
+    top: 330px;
+}
+
+.tpc {
+    position: absolute;
+    width: 273px;
+    height: 201px;
+    left: 754px;
+    top: 123px;
+}
+
+.tpc-caption {
+    position: absolute;
+    width: 200px;
+    height: 26px;
+    left: 855px;
+    top: 330px;
+}
+
+.dl {
+    position: absolute;
+    width: 273px;
+    height: 201px;
+    left: 1109px;
+    top: 123px;
+}
+
+.dl-caption {
+    position: absolute;
+    width: 250px;
+    height: 26px;
+    left: 1130px;
+    top: 330px;
+}
+
+.hj {
+    position: absolute;
+    width: 272px;
+    height: 201px;
+    left: 45px;
+    top: 395px;
+}
+
+.hj-caption {
+    position: absolute;
+    width: 114px;
+    height: 26px;
+    left: 125px;
+    top: 602px;
+}
+
+.kc-caption {
+    position: absolute;
+    width: 200px;
+    height: 26px;
+    left: 445px;
+    top: 602px;
+}
+
+.lc-caption {
+    position: absolute;
+    width: 500px;
+    height: 26px;
+    left: 760px;
+    top: 602px;
+}
+
+.kc {
+    position: absolute;
+    width: 272px;
+    height: 201px;
+    left: 399px;
+    top: 395px;
+}
+
+.lc {
+    position: absolute;
+    width: 272px;
+    height: 201px;
+    left: 753px;
+    top: 395px;
+}
+
+.sf {
+    position: absolute;
+    width: 272px;
+    height: 201px;
+    left: 1109px;
+    top: 395px;
+}
+
+.sf-caption {
+    position: absolute;
+    width: 200px;
+    height: 26px;
+    left: 1210px;
+    top: 602px;
+}
+
+.sm {
+    position: absolute;
+    width: 272px;
+    height: 201px;
+    left: 45px;
+    top: 655px;
+}
+
+.sm-caption {
+    position: absolute;
+    width: 114px;
+    height: 26px;
+    left: 124px;
+    top: 862px;
+}
+
+.sp {
+    position: absolute;
+    width: 272px;
+    height: 201px;
+    left: 399px;
+    top: 655px;
+}
+
+.sp-caption {
+    position: absolute;
+    width: 200px;
+    height: 26px;
+    left: 450px;
+    top: 862px;
+}
+
+.uc {
+    position: absolute;
+    width: 272px;
+    height: 201px;
+    left: 755px;
+    top: 655px;
+}
+
+.uc-caption {
+    position: absolute;
+    width: 200px;
+    height: 26px;
+    left: 810px;
+    top: 862px;
+}
+
+.ucc {
+    position: absolute;
+    width: 272px;
+    height: 201px;
+    left: 1109px;
+    top: 655px;
+}
+
+.ucc-caption {
+    position: absolute;
+    width: 250px;
+    height: 26px;
+    left: 1130px;
+    top: 862px;
+}
+
+.captions {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.pa {
+    position: absolute;
+    width: 272px;
+    height: 201px;
+    left: 45px;
+    top: 915px;
+}
+
+.pa-caption {
+    position: absolute;
+    width: 200px;
+    height: 26px;
+    left: 124px;
+    top: 1122px;
+}
