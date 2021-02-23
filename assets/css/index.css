@@ -4,10 +4,6 @@ body {
     background: #EA5A5A;
 }
 
-.food_image_scroller {
-    padding-left: 3%;
-}
-
 .star-1 {
     size: 200px;
     position: absolute;
@@ -64,16 +60,14 @@ body {
 }
 
 .author_message {
-    text-align: center;
+    /* text-align: center;
     position: relative;
-    width: 878px;
-    height: 332px;
-    left: 20%;
+    height: 332px; */
     font-family: Raleway;
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 23px;
-    text-align: center;
+    /* text-align: center; */
     color: #FFFFFF;
 }
